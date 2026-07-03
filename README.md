@@ -9,6 +9,8 @@
 | Claude Pro 安全注册与长期使用 | [claude-pro-guide.md](docs/claude-pro-guide.md) | ✅ 完整 |
 | 低成本 VPS 对比 | [vps-comparison.md](docs/vps-comparison.md) | ✅ 完整 |
 | 家宽 IP 获取方案 | [residential-ip.md](docs/residential-ip.md) | ✅ 完整 |
+| 反检测方案分析 | [anti-detection.md](docs/anti-detection.md) | ✅ 完整 |
+| 浏览器指纹硬化 | [browser-hardening.md](docs/browser-hardening.md) | ✅ 完整 |
 
 ## 🎯 核心思路
 
