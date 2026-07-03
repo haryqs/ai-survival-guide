@@ -8,7 +8,7 @@ REM
 REM Usage: start-claude-shield.bat
 REM Then: set HTTPS_PROXY=http://127.0.0.1:8890 before running claude
 
-set PROXY_PORT=8890
+set PROXY_PORT=8891
 set UPSTREAM_PROXY=http://127.0.0.1:7890
 set SCRIPT_DIR=%~dp0
 set ADDON=%SCRIPT_DIR%claude_shield.py
